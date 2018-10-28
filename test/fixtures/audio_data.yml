@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  audio: MyString
+  senderName: MyString
+  receiverId: MyString
+
+two:
+  audio: MyString
+  senderName: MyString
+  receiverId: MyString
