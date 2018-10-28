@@ -3,10 +3,9 @@
 #  id :integer
 #  audio :string
 #  senderName :string
-#  receiveId :string
+#  receiverId :string
 
 
-class AudioDatum < ApplicationRecord
-  belongs_to :group_id
+class AudioData < ApplicationRecord
 
 end
